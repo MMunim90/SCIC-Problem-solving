@@ -1,4 +1,4 @@
-function sumArray(arr) {
+function sumOfArray(arr) {
   let sum = 0;
   let i;
 
@@ -9,4 +9,4 @@ function sumArray(arr) {
   return sum;
 }
 
-console.log(sumArray([1, 2, 3, 4, 5, 6, 7, 8, 9])); 
+console.log(sumOfArray([1, 2, 3, 4, 5, 6, 7, 8, 9])); 
